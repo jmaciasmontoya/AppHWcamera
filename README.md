@@ -30,7 +30,7 @@ Una aplicación de cámara para Android desarrollada con Kotlin y Jetpack Compos
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/AppHWcamera.git
+git clone https://github.com/jmaciasmontoya/AppHWcamera.git
 ```
 
 2. Abre el proyecto en Android Studio
